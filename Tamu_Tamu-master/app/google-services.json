@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "226830736816",
+    "firebase_url": "https://tamutamu-1cf94-default-rtdb.firebaseio.com",
+    "project_id": "tamutamu-1cf94",
+    "storage_bucket": "tamutamu-1cf94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226830736816:android:e4c4ab4bf74a0be3790a75",
+        "android_client_info": {
+          "package_name": "com.example.tamutamu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2V-_H0wcNM6V98GAXTXXq7M550bs_yUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
